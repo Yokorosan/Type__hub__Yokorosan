@@ -1,0 +1,10 @@
+:root {
+  --toastify-color-success: var(--success);
+  --toastify-color-error: var(--negative);
+
+  --toastify-icon-color-success: var(--success);
+  --toastify-icon-color-error: var(--negative);
+
+  --toastify-color-progress-success: var(--success);
+  --toastify-color-progress-error: var(--negative);
+}
